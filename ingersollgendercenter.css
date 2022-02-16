@@ -1,0 +1,68 @@
+html, body {
+  margin: 0;
+  padding: 0;
+
+}
+
+header, nav, seciton, footer {
+  /*border: 1px solid black; */
+}
+
+#wrap {
+  width: 70%;
+  /*border: 2px solid black;*/
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+  padding: 10px;
+  background-color: white;
+}
+
+header img {
+  width: 50%;
+}
+
+nav {
+  background-color: #2dba73;
+  padding: 20px 0;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  padding: 20px 40px
+  text-decoration: none;
+}
+
+nav a:hover{
+  background-color: black;
+
+}
+
+nav li {
+  display: inline;
+}
+
+nav ul {
+  margins: 0;
+  padding: 0;
+}
+
+section {
+  padding: 40px
+  overflow: auto;
+}
+
+section h1 {
+  color: black;
+  margin: 0;
+  font-size: 220%;
+}
+
+.tidepod {
+  width: 30%;
+}
