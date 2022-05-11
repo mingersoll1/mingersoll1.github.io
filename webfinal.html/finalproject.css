@@ -161,7 +161,7 @@ nav{
 nav a {
 
 
- color: gray;
+ color: white;
 
 
  padding: 20px;
@@ -337,7 +337,7 @@ footer {
  background-color: black;
 
 
- color: lightblue;
+ color: orange;
 
 
  text-align: center;
@@ -437,7 +437,7 @@ margin: 10px 50px;
  margin: 0 auto;
 
 
- background-color: white;
+ background-color: gray;
 
 
 }
